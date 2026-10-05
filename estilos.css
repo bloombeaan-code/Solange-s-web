@@ -11,10 +11,10 @@ a:focus-visible, button:focus-visible, .slider:focus-visible { outline:3px solid
 .barra { min-height:88px; display:flex; align-items:center; justify-content:space-between; gap:24px; }
 .marca { font-size:25px; font-weight:800; display:flex; gap:8px; align-items:center; white-space:nowrap; }
 .marca img {
-  width: 60px !important;
-  height: 60px !important;
-  max-width: 60px !important;
-  max-height: 60px !important;
+  width: 55px !important;
+  height: 55px !important;
+  max-width: 55px !important;
+  max-height: 55px !important;
   object-fit: contain;
   position: static !important;
 }
